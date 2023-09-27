@@ -15,6 +15,8 @@ To see your applications health enter url `http://localhost:8081/healthcheck`
 Description
 ---
 
+A test project using dropwizard for creating a simple rest api. The most interesting part is adding a user to a shift.
+
 # Sample curl commands
 
 User
