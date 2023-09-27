@@ -1,0 +1,26 @@
+syntax: glob
+
+*.jar
+*.war
+*.ear
+*.class
+**/target/**
+
+# eclipse specific git ignore
+*.pydevproject
+.metadata
+.recommenders
+**/bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.db
+local.properties
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
